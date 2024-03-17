@@ -1,0 +1,6 @@
+Method,Time,IOU,Precision,Recall,F1,Filo # difference,Filo length difference,
+FiloDetect,1.28,0.06,0.13,0.11,0.13,6669,6824,
+FiloQuant,3.69,0.09,0.25,0.14,0.17,364,1911,
+Filopodyan,1.73,0.17,0.25,0.35,0.31,27,1483,
+FiloAnalyzer,0.20,0.16,0.28,0.29,0.28,1425,6318,
+FiloAnalyzer (+ blur),0.20,0.18,0.34,0.31,0.31,64,1401,

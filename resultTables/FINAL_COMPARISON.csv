@@ -1,0 +1,10 @@
+Tool           ,Image size ,Time [sec / img] ,IOU  ,PRECISION ,RECALL ,F1   ,|Filo # difference| ,|Filo len difference|
+FiloAnalyzerDL ,       320 ,            2.28 ,0.52 ,     0.75 ,  0.64 ,0.67 ,                4.3 ,                 71
+FiloAnalyzer   ,       320 ,            0.20 ,0.14 ,     0.33 ,  0.21 ,0.25 ,                8.2 ,                308.1
+FiloDetect     ,       320 ,            0.32 ,0.11 ,     0.45 ,  0.25 ,0.27 ,               52   ,               1321.2
+FiloQuant      ,       320 ,            1.27 ,0.13 ,     0.45 ,  0.18 ,0.23 ,               52.6 ,               1321.1
+Filopodyan     ,       320 ,            1.72 ,0.07 ,     0.48 ,  0.08 ,0.14 ,               70.2 ,               1503.4
+FiloDetect     ,      1000 ,            1.28 ,0.06 ,     0.13 ,  0.11 ,0.13 ,             6669   ,               6824
+FiloQuant      ,      1000 ,            3.69 ,0.09 ,     0.25 ,  0.14 ,0.17 ,              364   ,               1911
+Filopodyan     ,      1000 ,            1.72 ,0.17 ,     0.25 ,  0.35 ,0.31 ,               27   ,               1483
+FiloAnalyzer   ,      1000 ,            0.20 ,0.18 ,     0.34 ,  0.31 ,0.31 ,               64   ,               1401

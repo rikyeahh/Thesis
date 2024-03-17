@@ -1,0 +1,14 @@
+ ,Settings,Value
+1,Edge detection: Threshold for cell edge,25
+2,Edge detection: Number of iterations for Open,6
+3,Edge detection: Number of iterations for Erode,0
+4,Edge detection: Fill holes on edges?,1
+5,Edge detection: Fill Holes?,0
+6,Filopodia detection: Threshold for filopodia,25
+7,Filopodia detection: Filopodia minimum size,10
+8,Filopodia detection: Use convolve to improve filopodia detection?,1
+9,Filopodia detection: Use local contrast enhancement to improve filopodia detection?,0
+10,Filopodia detection: Maximal distance from edges,40
+11,Contour detection: Number of iterations for Close,4
+12,Contour detection: Number of iterations for Erode,2
+13,Contour detection: Number of iterations for Dilate,2
