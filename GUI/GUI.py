@@ -162,6 +162,7 @@ class filopodia():
         else:
             body = img
         body[body < 0.3 * np.mean((body))] = 0
+        body = cv2.GaussianBlur(body, (5, 5), 1)
         body = self.adjust_gamma(body, gamma=gamma)
 
         # SEGMENTATION
