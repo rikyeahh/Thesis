@@ -1,4 +1,4 @@
-print("CIAOOOOO")
+print("FiloAnalyzer toolbox startup...")
 
 import albumentations as albu
 import copy
